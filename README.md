@@ -44,7 +44,7 @@ This project aims to analyze and predict flight delays using U.S. flight data fr
 - Optimize the code for better performance, especially for handling large datasets.
 
 ## Author
-[Your Name]
+Shankara Parameshwari Navya Sri
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
